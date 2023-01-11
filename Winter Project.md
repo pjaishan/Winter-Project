@@ -44,4 +44,3 @@ The project I chose was the binary image classification task - muffin vs chihuah
 ## References
  - Torchvision documentation - https://pytorch.org/vision/stable/index.html
  - Scikit Learn Confusion Matrix - https://scikit-learn.org/stable/modules/generated/sklearn.metrics.confusion_matrix.html
- - 
